@@ -1,2 +1,2 @@
 # Bofreedom
-bo的博客
+bo博客
